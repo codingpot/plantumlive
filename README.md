@@ -1,6 +1,5 @@
 [![CI](https://github.com/codingpot/plantumlive/actions/workflows/ci.yaml/badge.svg)](https://github.com/codingpot/plantumlive/actions/workflows/ci.yaml)
 
-
 ## Getting Started
 
 First, run the development server:
